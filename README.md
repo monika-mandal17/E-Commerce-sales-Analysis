@@ -21,7 +21,7 @@ Some of the use cases are-
 1.MoM Growth,QoQ Growth,Avg Sales per day,Breakdown analysis of product
 
 
-Cleaned the data,did feature engineering,Data Modelling
+Cleaned the data,did feature engineering,Data Modelling in Power BI
 
 Created the report 
 
